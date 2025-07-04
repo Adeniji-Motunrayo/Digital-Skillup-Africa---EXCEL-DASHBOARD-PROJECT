@@ -44,3 +44,6 @@ Analyze the product and review data to uncover insights that can support:
   - PivotCharts
   - Calculated Columns
   - Scatter Plots & Trendlines
+ 
+📊Insights:
+The PivotTable shows that the company is using the right shipping methods. Most Critical and High-priority orders are sent with Express Air, which is fast but more expensive. On the other hand, Low and Medium priority orders are mostly sent with Delivery Trucks, which are slower but cheaper. This means the company is making smart choices based on how urgent the orders are.Over 800 products got fewer than 1,000 reviews each.Higher ratings usually come with slightly smaller discounts.Items that score high and get lots of reviews often keep their discounts small, showing the sellers trust their product’s quality and popularity.
